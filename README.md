@@ -5,3 +5,5 @@ This is a somewhat community driven project about modded minecraft, various reso
 #### [Launcher guide list](https://github.com/anonymous-from-space/mmcg/wiki/Launcher-guide)
 
 #### [Modpack helper](https://github.com/anonymous-from-space/mmcg/wiki/Modpacks)
+
+#### [Current Servers](https://github.com/anonymous-from-space/mmcg/wiki/Current-Servers)
